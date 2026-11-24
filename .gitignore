@@ -17,3 +17,6 @@ HEARTBEAT.md
 BOOTSTRAP.md
 MEMORY.md
 memory/
+
+# OpenClaw workspace state
+openclaw-workspace-state.json
